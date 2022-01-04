@@ -108,7 +108,7 @@ if __name__ == "__main__":
         scroll=scroll)
 
     # Write to file
-    filename: str = dest + '_' + str(datetime.datetime.now()) + '.txt'
+    filename: str = dest + '_' + str(datetime.datetime.now()) + '.text'
     f = open(filename, "w")
     for element in scraped_list:
         f.write(element + "\n")
