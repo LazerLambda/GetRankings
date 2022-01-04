@@ -11,7 +11,7 @@ Implementation based on [this repository](https://github.com/johnwmillr/trucks-a
         ```python
         CLASS_IDENTIFIER=custom_class_example
         ```
-    - store the target site in variable DEST e.g.\
+    - store the target site in variable DEST e.g.
         
         ```python
         DEST=the-greatest-rappers-of-all-time
