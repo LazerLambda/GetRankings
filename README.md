@@ -1,6 +1,6 @@
 # Ranker.com Scraper
 
-Implementation based on [this repository](https://github.com/johnwmillr/trucks-and-beer).
+Implementation based on [this repository](https://github.com/johnwmillr/trucks-and-beer) to obtain custom ranking data.
 
 ## How to use this Scraper
 
